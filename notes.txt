@@ -5,3 +5,6 @@ This file contains important project notes.
 
 - Started project on 2022-01-15
 - Initial planning phase completed
+
+- Meeting notes from 2022-01-20
+- Discussed project requirements
