@@ -14,3 +14,5 @@ This file contains important project notes.
 
 - Performance optimization discussed
 - Database schema finalized
+- Authentication module discussion
+- Decided to use OAuth 2.0
